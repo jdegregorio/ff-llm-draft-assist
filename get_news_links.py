@@ -26,7 +26,7 @@ def load_players():
     """Load player data from a parquet file."""
     return pd.read_parquet('data/values_players.parquet')
 
-def get_top_n_players(df, n=5):
+def get_top_n_players(df, n=500):
     """Get the top N players sorted by value_2qb."""
     return df.sort_values('value_2qb', ascending=False).head(n)
 

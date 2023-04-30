@@ -1,58 +1,144 @@
-2023-04-29 23:30:05,081 INFO: Reading document from string ...
-2023-04-29 23:30:05,110 INFO: Reading document ...
-2023-04-29 23:30:17,177 INFO: Reading document from string ...
-2023-04-29 23:30:17,206 INFO: Reading document ...
-2023-04-29 23:30:31,016 INFO: Reading document from string ...
-2023-04-29 23:30:31,040 INFO: Reading document ...
-2023-04-29 23:30:34,809 INFO: Reading document from string ...
-2023-04-29 23:30:34,819 INFO: Reading document ...
-2023-04-29 23:30:45,921 INFO: Reading document from string ...
-2023-04-29 23:30:45,991 INFO: Reading document ...
-2023-04-29 23:30:59,099 INFO: Reading document from string ...
-2023-04-29 23:30:59,150 INFO: Reading document ...
-2023-04-29 23:31:18,679 INFO: Reading document from string ...
-2023-04-29 23:31:18,717 INFO: Reading document ...
-2023-04-29 23:31:24,453 INFO: Reading document from string ...
-2023-04-29 23:31:24,580 INFO: Reading document ...
-2023-04-29 23:31:31,542 INFO: Reading document from string ...
-2023-04-29 23:31:31,570 INFO: Reading document ...
-2023-04-29 23:32:01,977 ERROR: Error fetching or processing https://lastwordonsports.com/nfl/2023/04/29/fantasy-football-rookie-rankings-dynasty-superflex/, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://lastwordonsports.com/nfl/2023/04/29/fantasy-football-rookie-rankings-dynasty-superflex/", waiting until "load"
-============================================================
-2023-04-29 23:32:17,400 INFO: Reading document from string ...
-2023-04-29 23:32:17,447 INFO: Reading document ...
-2023-04-29 23:32:33,284 INFO: Reading document from string ...
-2023-04-29 23:32:33,360 INFO: Reading document ...
-2023-04-29 23:32:55,766 INFO: Reading document from string ...
-2023-04-29 23:32:55,848 INFO: Reading document ...
-2023-04-29 23:33:09,341 INFO: Reading document from string ...
-2023-04-29 23:33:09,405 INFO: Reading document ...
-2023-04-29 23:33:40,715 ERROR: Error fetching or processing https://theathletic.com/4434731/2023/04/20/eagles-jalen-hurts-matt-patricia/, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://theathletic.com/4434731/2023/04/20/eagles-jalen-hurts-matt-patricia/", waiting until "load"
-============================================================
-2023-04-29 23:34:11,194 ERROR: Error fetching or processing https://dynastyleaguefootball.com/2023/04/11/dynasty-fantasy-football-mailbag-attacking-the-startup-draft-and-trading-jalen-hurts/, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://dynastyleaguefootball.com/2023/04/11/dynasty-fantasy-football-mailbag-attacking-the-startup-draft-and-trading-jalen-hurts/", waiting until "load"
-============================================================
-2023-04-29 23:34:24,843 INFO: Reading document from string ...
-2023-04-29 23:34:24,891 INFO: Reading document ...
-2023-04-29 23:35:01,945 INFO: Reading document from string ...
-2023-04-29 23:35:02,081 INFO: Reading document ...
-2023-04-29 23:35:36,737 ERROR: Error fetching or processing https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end", waiting until "load"
-============================================================
-2023-04-29 23:36:07,640 ERROR: Error fetching or processing https://theathletic.com/4445575/2023/04/24/eagles-jalen-hurts-extension/, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://theathletic.com/4445575/2023/04/24/eagles-jalen-hurts-extension/", waiting until "load"
-============================================================
-2023-04-29 23:36:19,213 ERROR: Error fetching or processing https://brobible.com/sports/article/anthony-richardson-believes-perform-like-jalen-hurts/, exception: net::ERR_SOCKET_NOT_CONNECTED at https://brobible.com/sports/article/anthony-richardson-believes-perform-like-jalen-hurts/
-=========================== logs ===========================
-navigating to "https://brobible.com/sports/article/anthony-richardson-believes-perform-like-jalen-hurts/", waiting until "load"
-============================================================
-2023-04-29 23:36:49,972 ERROR: Error fetching or processing https://www.cbssports.com/fantasy/football/news/colts-draft-anthony-richardson-full-scouting-report-fantasy-football-fits-nfl-projection-dynasty-more/, exception: Timeout 30000ms exceeded.
-=========================== logs ===========================
-navigating to "https://www.cbssports.com/fantasy/football/news/colts-draft-anthony-richardson-full-scouting-report-fantasy-football-fits-nfl-projection-dynasty-more/", waiting until "load"
-============================================================
+2023-04-30 00:00:12,409 INFO: Scraped and extracted text for Jalen Hurts - https://theathletic.com/4425647/2023/04/19/nicole-lynn-jalen-hurts-nfl-philadelphia-eagles/
+2023-04-30 00:00:13,076 INFO: Scraped and extracted text for Jalen Hurts - https://www.thefantasyfootballers.com/dynasty/dynasty-superflex-do-we-overvalue-qbs-in-rookie-drafts/
+2023-04-30 00:00:13,280 INFO: Scraped and extracted text for Jalen Hurts - https://theathletic.com/4446785/2023/04/24/eagles-jalen-hurts-contract/
+2023-04-30 00:00:13,739 INFO: Scraped and extracted text for Jalen Hurts - https://www.yahoo.com/lifestyle/nicole-lynn-trailblazing-agent-behind-040811872.html
+2023-04-30 00:00:14,085 INFO: Scraped and extracted text for Jalen Hurts - https://www.inquirer.com/eagles/live/nfl-draft-2023-eagles-picks-order-trades-round-1-20230427.html
+2023-04-30 00:00:15,661 INFO: Scraped and extracted text for Jalen Hurts - https://www.rotoballer.com/2023-dynasty-fantasy-football-riser-jalen-hurts/1153727
+2023-04-30 00:00:15,874 INFO: Scraped and extracted text for Jalen Hurts - https://theathletic.com/4423215/2023/04/19/eagles-mock-draft-jalen-hurts/
+2023-04-30 00:00:16,365 INFO: Scraped and extracted text for Jalen Hurts - https://www.youtube.com/watch?v=zFK1NpkFNcA
+2023-04-30 00:00:16,842 INFO: Scraped and extracted text for Jalen Hurts - https://sports.yahoo.com/eagles-add-tanner-mckee-sixth-201909466.html
+2023-04-30 00:00:17,055 INFO: Scraped and extracted text for Jalen Hurts - https://lastwordonsports.com/nfl/2023/04/29/fantasy-football-rookie-rankings-dynasty-superflex/
+2023-04-30 00:00:17,514 INFO: Scraped and extracted text for Jalen Hurts - https://www.msn.com/en-us/sports/nfl/nfl-news-eagles-make-blockbuster-trade-to-add-star-running-back-for-jalen-hurts/ar-AA1axdqU
+2023-04-30 00:00:18,137 INFO: Scraped and extracted text for Jalen Hurts - https://dynastyleaguefootball.com/2023/03/29/four-wide-receivers-to-buy-sell-or-hold-in-dynasty-leagues-3/
+2023-04-30 00:00:18,405 INFO: Scraped and extracted text for Jalen Hurts - https://dynastyleaguefootball.com/2023/03/31/shane-manila-dynasty-fantasy-football-rankings-explained/
+2023-04-30 00:00:18,897 INFO: Scraped and extracted text for Jalen Hurts - https://sports.yahoo.com/4-lessons-colts-learn-jalen-110121603.html
+2023-04-30 00:00:19,084 INFO: Scraped and extracted text for Jalen Hurts - https://theathletic.com/4434731/2023/04/20/eagles-jalen-hurts-matt-patricia/
+2023-04-30 00:00:19,411 INFO: Scraped and extracted text for Jalen Hurts - https://dynastyleaguefootball.com/2023/04/11/dynasty-fantasy-football-mailbag-attacking-the-startup-draft-and-trading-jalen-hurts/
+2023-04-30 00:00:19,911 INFO: Scraped and extracted text for Jalen Hurts - https://sports.yahoo.com/eagles-draft-grades-2023-analysis-085504810.html
+2023-04-30 00:00:21,336 INFO: Scraped and extracted text for Jalen Hurts - https://www.rotoballer.com/player-news/jalen-hurts-had-offseason-procedure/1164393
+2023-04-30 00:00:21,709 INFO: Scraped and extracted text for Jalen Hurts - https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end
+2023-04-30 00:00:21,872 INFO: Scraped and extracted text for Jalen Hurts - https://theathletic.com/4445575/2023/04/24/eagles-jalen-hurts-extension/
+2023-04-30 00:00:22,058 INFO: Scraped and extracted text for Jalen Hurts - https://brobible.com/sports/article/anthony-richardson-believes-perform-like-jalen-hurts/
+2023-04-30 00:00:22,398 INFO: Scraped and extracted text for Jalen Hurts - https://www.cbssports.com/fantasy/football/news/colts-draft-anthony-richardson-full-scouting-report-fantasy-football-fits-nfl-projection-dynasty-more/
+2023-04-30 00:00:22,781 INFO: Scraped and extracted text for Jalen Hurts - https://www.profootballnetwork.com/dynasty-fantasy-rankings-superflex-2023/
+2023-04-30 00:00:23,066 INFO: Scraped and extracted text for Jalen Hurts - https://www.profootballnetwork.com/dynasty-fantasy-rankings-quarterback-2023/
+2023-04-30 00:00:23,359 INFO: Scraped and extracted text for Jalen Hurts - https://newsone.com/4569933/lamar-jackson-jalen-hurts-nfl-highest-paid/
+2023-04-30 00:00:24,779 INFO: Scraped and extracted text for Jalen Hurts - https://www.rotoballer.com/player-news/jalen-hurts-to-sign-255-million-contract-extension/1163079
+2023-04-30 00:00:24,992 INFO: Scraped and extracted text for Jalen Hurts - https://www.saturdaydownsouth.com/florida-football/anthony-richardson-eyeing-jalen-hurts-like-ascension-with-new-colts-hc-shane-steichen/
+2023-04-30 00:00:25,284 INFO: Scraped and extracted text for Jalen Hurts - https://www.thecoldwire.com/everyone-is-saying-the-same-thing-about-the-eagles-defense/
+2023-04-30 00:00:25,478 INFO: Scraped and extracted text for Jalen Hurts - https://www.yardbarker.com/nfl/articles/eagles_draft_qb_tanner_mckee_to_back_up_jalen_hurts/s1_17049_38759554
+2023-04-30 00:00:25,661 INFO: Scraped and extracted text for Jalen Hurts - https://www.espn.com/nfl/story/_/id/36281093/jalen-hurts-new-deal-money-nice-titles-better
+2023-04-30 00:00:26,119 INFO: Scraped and extracted text for Joe Burrow - https://www.youtube.com/watch?v=mXITyPWw1sw
+2023-04-30 00:00:26,360 INFO: Scraped and extracted text for Joe Burrow - https://www.bleachernation.com/nfl/2023/04/25/bengals-exercise-qb-joe-burrows-fifth-year-option/
+2023-04-30 00:00:26,611 INFO: Scraped and extracted text for Joe Burrow - https://www.5thdownfantasy.com/news/joe-burrow-receives-fifth-year-option-from-bengals/
+2023-04-30 00:00:26,990 INFO: Scraped and extracted text for Joe Burrow - https://theathletic.com/4450846/2023/04/25/bengals-joe-burrow-fifth-year/
+2023-04-30 00:00:27,181 INFO: Scraped and extracted text for Joe Burrow - https://profootballtalk.nbcsports.com/2023/04/29/bengals-draft-picks-2023-full-list-of-cincinnatis-selections-for-every-round/
+2023-04-30 00:00:27,462 INFO: Scraped and extracted text for Joe Burrow - https://www.cbssports.com/nfl/news/nfl-draft-2023-bryce-young-joins-peyton-manning-joe-burrow-other-no-1-picks-who-immediately-got-wr-help/
+2023-04-30 00:00:27,743 INFO: Scraped and extracted text for Joe Burrow - https://www.profootballnetwork.com/joe-burrow-dynasty-profile-2023/
+2023-04-30 00:00:28,762 INFO: Scraped and extracted text for Joe Burrow - https://www.elkvalleytimes.com/sports/national/bengals-burrow-football/image_124289e4-2227-5dd3-8db5-00dc735094c9.html
+2023-04-30 00:00:29,095 INFO: Scraped and extracted text for Joe Burrow - https://itsgame7.com/olivia-holzmacher-shares-joe-burrow-birthday-celebration-photos/
+2023-04-30 00:00:29,327 INFO: Scraped and extracted text for Joe Burrow - https://www.profootballnetwork.com/justin-fields-dynasty-profile-2023/
+2023-04-30 00:00:29,455 INFO: Scraped and extracted text for Joe Burrow - https://www.yardbarker.com/nfl/articles/bengals_give_joe_burrow_another_weapon_take_charlie_jones_in_fourth_round_of_2023_nfl_draft/s1_16652_38757810
+2023-04-30 00:00:30,065 INFO: Scraped and extracted text for Joe Burrow - https://www.thefantasyfootballers.com/news/536877/joe-burrow-option-exercised-by-cincinnati/
+2023-04-30 00:00:30,240 INFO: Scraped and extracted text for Joe Burrow - https://theathletic.com/4447246/2023/04/25/bengals-nfl-draft-debates/
+2023-04-30 00:00:30,474 INFO: Scraped and extracted text for Joe Burrow - https://www.profootballnetwork.com/jalen-hurts-dynasty-profile-2023/
+2023-04-30 00:00:31,968 INFO: Scraped and extracted text for Joe Burrow - https://www.rotoballer.com/player-news/bengals-exercise-joe-burrows-fifth-year-option/1166942
+2023-04-30 00:00:32,197 INFO: Scraped and extracted text for Joe Burrow - https://www.bleachernation.com/fantasy-football/2023/03/16/dynasty-quarterback-rankings-dynasty-fantasy-football-top-twelve/
+2023-04-30 00:00:32,639 INFO: Scraped and extracted text for Joe Burrow - https://www.fantasypros.com/nfl/news/399329/joe-burrow-receives-fifth-year-option-from-bengals.php
+2023-04-30 00:00:35,179 INFO: Scraped and extracted text for Joe Burrow - https://fantasysixpack.net/dynasty-football-qb-tiered-rankings/
+2023-04-30 00:00:35,368 INFO: Scraped and extracted text for Joe Burrow - https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end
+2023-04-30 00:00:35,917 INFO: Scraped and extracted text for Joe Burrow - https://www.dynastynerds.com/dynasty-startup-mock-draft-strategy-heavy-rb/
+2023-04-30 00:00:36,091 INFO: Scraped and extracted text for Joe Burrow - https://www.si.com/nfl/bengals/allbengals-insiders-plus/chase-brown-excited-play-with-joe-burrow-hes-an-absolute-dog
+2023-04-30 00:00:36,540 INFO: Scraped and extracted text for Joe Burrow - https://www.rotoballer.com/player-news/bengals-to-focus-on-signing-joe-burrow-long-term/1167081
+2023-04-30 00:00:36,718 INFO: Scraped and extracted text for Joe Burrow - https://www.yardbarker.com/nfl/articles/bengals_running_back_chase_brown_is_excited_to_play_with_joe_burrow_hes_an_absolute_dog/s1_16652_38758636
+2023-04-30 00:00:37,240 INFO: Scraped and extracted text for Joe Burrow - https://www.youtube.com/watch?v=Uy6LGZrpT-w
+2023-04-30 00:00:37,376 INFO: Scraped and extracted text for Joe Burrow - https://www.si.com/nfl/bengals/news/bengals-give-joe-burrow-another-weapon-take-charlie-jones-fourth-round-2023-nfl-draft
+2023-04-30 00:00:38,067 INFO: Scraped and extracted text for Joe Burrow - https://www.thefantasyfootballers.com/news/536881/tee-higgins-present-for-voluntary-workouts/
+2023-04-30 00:00:38,398 INFO: Scraped and extracted text for Joe Burrow - https://dynastyleaguefootball.com/2023/03/19/dynasty-fantasy-football-rankings-vs-adp-superflex-quarterbacks/
+2023-04-30 00:00:39,009 INFO: Scraped and extracted text for Joe Burrow - https://sports.yahoo.com/best-reactions-bengals-draft-charlie-175038736.html
+2023-04-30 00:00:39,145 INFO: Scraped and extracted text for Josh Allen - https://www.si.com/fantasy/2023/04/28/dalton-kincaid-buffalo-bills-nfl-draft-rookie-ranking
+2023-04-30 00:00:39,731 INFO: Scraped and extracted text for Josh Allen - https://www.thefantasyfootballers.com/news/536175/josh-allen-restructures-deal/
+2023-04-30 00:00:40,733 INFO: Scraped and extracted text for Josh Allen - https://www.pff.com/news/fantasy-football-2023-dynasty-fantasy-football-trade-value-chart
+2023-04-30 00:00:41,271 INFO: Scraped and extracted text for Josh Allen - https://www.youtube.com/watch?v=zFK1NpkFNcA
+2023-04-30 00:00:42,275 INFO: Scraped and extracted text for Josh Allen - https://www.thestar.com/sports/football/2023/04/29/bills-focus-on-upgrading-offense-around-allen-in-nfl-draft.html
+2023-04-30 00:00:42,661 INFO: Scraped and extracted text for Josh Allen - https://lastwordonsports.com/nfl/2023/04/29/fantasy-football-rookie-rankings-dynasty-superflex/
+2023-04-30 00:00:43,312 INFO: Scraped and extracted text for Josh Allen - https://www.rotoballer.com/player-news/mcdermott-nervous-about-number-of-hits-on-josh-allen/1153452
+2023-04-30 00:00:44,037 INFO: Scraped and extracted text for Josh Allen - https://www.dynastynerds.com/8-startup-strategies-to-crush-your-draft/
+2023-04-30 00:00:44,588 INFO: Scraped and extracted text for Josh Allen - https://sports.yahoo.com/bills-trade-back-commanders-round-175918159.html
+2023-04-30 00:00:45,148 INFO: Scraped and extracted text for Josh Allen - https://www.dynastynerds.com/who-is-the-1-01-in-a-superflex-startup-draft/
+2023-04-30 00:00:45,658 INFO: Scraped and extracted text for Josh Allen - https://ca.sports.yahoo.com/news/colts-chart-qb-path-1st-005919854.html
+2023-04-30 00:00:45,849 INFO: Scraped and extracted text for Josh Allen - https://www.bleachernation.com/fantasy-football/2023/03/16/dynasty-quarterback-rankings-dynasty-fantasy-football-top-twelve/
+2023-04-30 00:00:46,458 INFO: Scraped and extracted text for Josh Allen - https://www.dynastynerds.com/the-best-superflex-draft-strategy-surprise-its-all-about-the-quarterbacks/
+2023-04-30 00:01:00,401 INFO: Scraped and extracted text for Josh Allen - https://www.syracuse.com/buffalo-bills/2023/04/grading-entire-buffalo-bills-2023-draft-class-gm-adds-weapons-protection-for-josh-allen.html
+2023-04-30 00:01:00,568 INFO: Scraped and extracted text for Josh Allen - https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end
+2023-04-30 00:01:01,414 INFO: Scraped and extracted text for Josh Allen - https://www.fantasypros.com/2023/03/fantasy-football-rankings-dynasty-trade-value-chart-march-2023-update/
+2023-04-30 00:01:01,975 INFO: Scraped and extracted text for Josh Allen - https://buffalonews.com/sports/bills/complete-coverage-buffalo-bills-add-weapons-for-josh-allen-beef-up-ol-at-nfl-draft/collection_1c3e1cfa-e578-11ed-b3b5-37ec51a93094.html
+2023-04-30 00:01:02,317 INFO: Scraped and extracted text for Josh Allen - https://www.profootballnetwork.com/dynasty-fantasy-rankings-superflex-2023/
+2023-04-30 00:01:03,605 INFO: Scraped and extracted text for Josh Allen - https://pkbnews.in/josh-allen-cheating-scandal-explained/
+2023-04-30 00:01:05,573 INFO: Scraped and extracted text for Josh Allen - https://fantasyindex.com/2023/04/02/factoid/josh-allen
+2023-04-30 00:01:06,315 INFO: Scraped and extracted text for Josh Allen - https://www.fantraxhq.com/dynasty-football-rankings-superflex-2023/
+2023-04-30 00:01:07,099 INFO: Scraped and extracted text for Josh Allen - https://buffalonews.com/sports/bills/mark-gaughan-buffalo-bills-winners-and-losers-after-2023-nfl-draft/article_e60ed73e-e6ce-11ed-99cd-df2f0356d4c9.html
+2023-04-30 00:01:08,373 INFO: Scraped and extracted text for Josh Allen - https://pkbnews.in/josh-allen-got-girl-pregnant-cheating-scandal/
+2023-04-30 00:01:08,629 INFO: Scraped and extracted text for Josh Allen - https://ktvz.com/sports/ap-national-sports/2023/04/29/bills-focus-on-upgrading-offense-around-allen-in-nfl-draft/
+2023-04-30 00:01:08,827 INFO: Scraped and extracted text for Josh Allen - https://kstp.com/associated-press/ap-national-sports/bills-focus-on-upgrading-offense-around-allen-in-nfl-draft/
+2023-04-30 00:01:10,349 INFO: Scraped and extracted text for Josh Allen - https://www.rotoballer.com/player-news/josh-allen-might-run-less-this-season/1163850
+2023-04-30 00:01:10,575 INFO: Scraped and extracted text for Josh Allen - https://theathletic.com/4254238/2023/02/28/colts-will-levis-nfl-draft/
+2023-04-30 00:01:11,682 INFO: Scraped and extracted text for Josh Allen - https://www.fantasypros.com/2023/03/how-draft-winning-best-ball-roster-2023-fantasy-football/
+2023-04-30 00:01:11,867 INFO: Scraped and extracted text for Justin Jefferson - https://www.si.com/fantasy/2023/04/28/jordan-addison-minnesota-vikings-nfl-draft-rookie-rankings
+2023-04-30 00:01:12,118 INFO: Scraped and extracted text for Justin Jefferson - https://purpleptsd.com/2023/vikings/vikings-analysis/10-jordan-addison/
+2023-04-30 00:01:12,812 INFO: Scraped and extracted text for Justin Jefferson - https://www.vikings.com/video/jordan-addison-on-playing-with-justin-jefferson-how-he-ll-fit-into-the-offense-w
+2023-04-30 00:01:13,066 INFO: Scraped and extracted text for Justin Jefferson - https://www.5thdownfantasy.com/news/tyler-scott-selected-no-133-by-chicago-bears/
+2023-04-30 00:01:13,392 INFO: Scraped and extracted text for Justin Jefferson - https://www.espn.com/fantasy/football/story/_/id/35425170/fantasy-football-ppr-rankings-2023-quarterback-running-back-wide-receiver-tight-end
+2023-04-30 00:01:14,042 INFO: Scraped and extracted text for Justin Jefferson - https://www.4for4.com/news/vikings-pick-wr-justin-jeffersons-fifth-year-option-eye-long-term-extension
+2023-04-30 00:01:14,258 INFO: Scraped and extracted text for Justin Jefferson - https://www.bleachernation.com/nfl/2023/04/25/vikings-exercise-wr-justin-jeffersons-fifth-year-option/
+2023-04-30 00:01:14,728 INFO: Scraped and extracted text for Justin Jefferson - https://www.profootballnetwork.com/2023-dynasty-mock-draft-justin-jefferson-and-jamarr-chase-are-sure-things/
+2023-04-30 00:01:15,416 INFO: Scraped and extracted text for Justin Jefferson - https://sports.yahoo.com/vikings-wire-gives-nfl-draft-191336439.html
+2023-04-30 00:01:16,483 INFO: Scraped and extracted text for Justin Jefferson - https://www.ftnfantasy.com/articles/FTN/90098/who-should-be-the-first-overall-pick-in-a-2023-dynasty-startup
+2023-04-30 00:01:16,679 INFO: Scraped and extracted text for Justin Jefferson - https://www.5thdownfantasy.com/news/mohamed-ibrahim-signs-with-the-lions-as-an-udfa/
+2023-04-30 00:01:18,085 INFO: Scraped and extracted text for Justin Jefferson - https://www.espn.com/fantasy/football/story/_/id/35420010/fantasy-football-superflex-rankings-2023-quarterback-running-back-wide-receiver-tight-end
+2023-04-30 00:01:18,680 INFO: Scraped and extracted text for Justin Jefferson - https://www.pff.com/news/draft-2023-nfl-draft-minnesota-vikings-pick-usc-wr-jordan-addison-to-pair-with-justin-jefferson
+2023-04-30 00:01:19,679 INFO: Scraped and extracted text for Justin Jefferson - https://www.fantasypros.com/2023/04/post-round-1-dynasty-superflex-rookie-mock-draft-2023-fantasy-football/
+2023-04-30 00:01:20,564 INFO: Scraped and extracted text for Justin Jefferson - https://www.fantraxhq.com/dynasty-football-rankings-2023/
+2023-04-30 00:01:21,148 INFO: Scraped and extracted text for Justin Jefferson - https://www.yahoo.com/lifestyle/2023-nfl-draft-vikings-select-131800772.html
+2023-04-30 00:01:21,977 INFO: Scraped and extracted text for Justin Jefferson - https://www.willmarradio.com/sports/vikings-chose-usc-wide-receiver-in-first-round-of-draft/article_47ac28ee-e5bb-11ed-97a8-ef6822626db5.html
+2023-04-30 00:01:22,638 INFO: Scraped and extracted text for Justin Jefferson - https://www.profootballnetwork.com/dynasty-fantasy-rankings-superflex-2023/
+2023-04-30 00:01:22,803 INFO: Scraped and extracted text for Justin Jefferson - https://dynastyleaguefootball.com/2023/03/17/matt-price-dynasty-fantasy-football-rankings-explained/
+2023-04-30 00:01:23,324 INFO: Scraped and extracted text for Justin Jefferson - https://www.cbssports.com/nfl/news/nfl-fifth-year-option-tracker-chargers-lock-in-justin-herbert-through-2024-49ers-decline-option-for-dt/
+2023-04-30 00:01:24,038 INFO: Scraped and extracted text for Justin Jefferson - https://www.dynastynerds.com/dynasty-startup-mock-draft-strategy-zero-rb/
+2023-04-30 00:01:24,585 INFO: Scraped and extracted text for Justin Jefferson - https://www.youtube.com/watch?v=Uy6LGZrpT-w
+2023-04-30 00:01:25,075 INFO: Scraped and extracted text for Justin Jefferson - https://www.msn.com/en-us/sports/nfl/really-smart-football-people-grade-the-jordan-addison-pick/ar-AA1atxmd?li=BB15ms5q
+2023-04-30 00:01:25,595 INFO: Scraped and extracted text for Justin Jefferson - https://www.cbsnews.com/minnesota/news/vikings-1st-round-wr-jordan-addison-excited-to-get-to-work-learn-from-justin-jefferson/
+2023-04-30 00:01:26,375 INFO: Scraped and extracted text for Justin Jefferson - https://sports.yahoo.com/addison-joins-vikings-play-alongside-030352665.html
+2023-04-30 00:01:26,854 INFO: Scraped and extracted text for Justin Jefferson - https://www.profootballnetwork.com/dynasty-fantasy-rankings-wide-receiver-2023/
+2023-04-30 00:01:27,132 INFO: Scraped and extracted text for Justin Jefferson - https://www.5thdownfantasy.com/news/chase-young-commanders-dont-exercise-fifth-year-option/
+2023-04-30 00:01:27,816 INFO: Scraped and extracted text for Justin Jefferson - https://www.profootballnetwork.com/minnesota-vikings-nfl-draft-grades-2023/
+2023-04-30 00:01:28,039 INFO: Scraped and extracted text for Justin Jefferson - https://www.5thdownfantasy.com/news/jordan-addison-selected-no-23-by-minnesota-vikings/
+2023-04-30 00:01:28,439 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.bleachernation.com/news/2023/04/26/nfl-draft-2023-kansas-city-chiefs-mock-drafts-chiefs-7-round-nfl-mock-draft/
+2023-04-30 00:01:29,071 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.nfl.com/news/nfl-fantasy-football-podcast-mahomes-qb2
+2023-04-30 00:01:30,265 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.kctv5.com/2023/04/29/he-worked-out-with-mahomes-after-being-drafted-new-chiefs-receiver-got-phone-call-him/
+2023-04-30 00:01:30,797 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.youtube.com/watch?v=zFK1NpkFNcA
+2023-04-30 00:01:32,607 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.sportszion.com/nfl-draft-2023-chiefs-trade-up-to-provide-patrick-mahomes-another-offensive-weapon-in-second-round/
+2023-04-30 00:01:34,349 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.fantasypros.com/2023/03/two-truths-a-lie-fantasy-showdown-should-patrick-mahomes-be-the-qb1-overall/
+2023-04-30 00:01:35,114 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.msn.com/en-us/sports/nfl/chiefs-get-huge-steal-for-patrick-mahomes-in-second-round/ar-AA1avpvy
+2023-04-30 00:01:35,285 INFO: Scraped and extracted text for Patrick Mahomes II - https://dynastyleaguefootball.com/2023/04/07/tim-riordan-dynasty-fantasy-football-rankings-explained/
+2023-04-30 00:01:35,539 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.si.com/fantasy/2023/03/20/nfl-free-agency-fantasy-winners-losers-patrick-mahomes
+2023-04-30 00:01:36,483 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.dynastynerds.com/who-is-the-1-01-in-a-superflex-startup-draft/
+2023-04-30 00:01:37,163 INFO: Scraped and extracted text for Patrick Mahomes II - https://sports.yahoo.com/chiefs-address-biggest-needs-during-233610888.html
+2023-04-30 00:01:37,850 INFO: Scraped and extracted text for Patrick Mahomes II - https://fansided.com/2023/04/28/patrick-mahomes-house-call-draft-pick-rashee-rice/
+2023-04-30 00:01:38,493 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.bleachernation.com/fantasy-football/2023/03/16/dynasty-quarterback-rankings-dynasty-fantasy-football-top-twelve/
+2023-04-30 00:01:39,369 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.dynastynerds.com/the-best-superflex-draft-strategy-surprise-its-all-about-the-quarterbacks/
+2023-04-30 00:01:39,824 INFO: Scraped and extracted text for Patrick Mahomes II - https://fansided.com/2023/04/28/rashee-rice-patrick-mahomes-throwing-session-chiefs-draft-pick/
+2023-04-30 00:01:41,470 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.rotoballer.com/player-news/patrick-mahomes-doing-good/1153435
+2023-04-30 00:01:41,828 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.fantasypros.com/2023/04/fantasy-football-rankings-dynasty-trade-value-chart-april-2023-update/
+2023-04-30 00:01:42,301 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.profootballnetwork.com/patrick-mahomes-dynasty-profile-2023/
+2023-04-30 00:01:43,261 INFO: Scraped and extracted text for Patrick Mahomes II - http://www.chiefscrowd.com/rashee-rice-worked-out-with-patrick-mahomes-in-texas-before-the-draft/
+2023-04-30 00:01:43,789 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.profootballnetwork.com/dynasty-fantasy-rankings-superflex-2023/
+2023-04-30 00:01:44,107 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.essentiallysports.com/nfl-news-questioning-his-rashee-pick-nfl-world-left-confused-as-patrick-mahomes-again-uses-throwing-technique-to-catch-ace-players/
+2023-04-30 00:01:45,071 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.fantraxhq.com/dynasty-football-rankings-superflex-2023/
+2023-04-30 00:01:45,535 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.profootballnetwork.com/dynasty-fantasy-rankings-quarterback-2023/
+2023-04-30 00:01:46,586 INFO: Scraped and extracted text for Patrick Mahomes II - https://sports.yahoo.com/whos-the-better-fantasy-option-for-2023-drafters-jalen-hurts-or-patrick-mahomes-180703767.html
+2023-04-30 00:01:47,663 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.fantasypros.com/2023/02/2023-fantasy-football-draft-rankings-top-10-quarterbacks/
+2023-04-30 00:01:47,863 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.si.com/nfl/chiefs/draft/connection-with-patrick-mahomes-sparked-kc-chiefs-rashee-rice-pick
+2023-04-30 00:01:50,007 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.rotoballer.com/is-patrick-mahomes-healthy-or-injured/1160824
+2023-04-30 00:01:50,707 INFO: Scraped and extracted text for Patrick Mahomes II - https://www.dynastynerds.com/top-12-dynasty-quarterback-rankings-tiers/
+2023-04-30 00:01:51,178 INFO: Scraped and extracted text for Patrick Mahomes II - https://chiefswire.usatoday.com/2023/04/29/kansas-city-chiefs-2023-nfl-draft-patrick-mahomes-rashee-rice-wanya-morris-approval/
